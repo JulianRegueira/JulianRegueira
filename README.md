@@ -18,7 +18,7 @@ In addition to programming, I enjoy doing sports, like playing soccer or enjoyin
 - 🌱 I’m currently learning React;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Send me a Whatsapp: [:love_letter:](https://api.whatsapp.com/send/?phone=1132290264&app_absent=0)<--- CLICK HERE;
-- 📝[My Resume](https://drive.google.com/file/d/1oE7slS3jlzldDm7gm5moW9-_0A6BAa0s/view?usp=sharing)
+- 📝[My Resume](https://drive.google.com/file/d/1S1kTM3M6QuCY-we4y1b4P8MGqnXHEg7O/view?usp=sharing)
 
 **Languages and Tools:**  
 

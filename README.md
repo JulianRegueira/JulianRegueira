@@ -7,7 +7,7 @@
 </a><br><br>
 
 
-Im Julian, a Python Developer & Data Analyst 🚀 from Argentina, currently, I'm Scrum Master at Antoine Saint Exupery School 🙍🏽‍♂️.<p>
+Im Julian, a Python Developer & Data Analyst 🚀 from Argentina, currently, I'm Tournament Manager / Bi Analyst at Goama 🙍🏽‍♂️.<p>
 In addition to programming, I enjoy doing sports, like playing soccer or enjoying some video games.<p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />

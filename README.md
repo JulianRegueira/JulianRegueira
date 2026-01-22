@@ -7,14 +7,14 @@
 </a><br><br>
 
 
-Im Julian, a Python Developer & Data Analyst 🚀 from Argentina, currently, I'm Tournament Manager / Bi Analyst at Goama  & Data Developer on Quales Group 🙍🏽‍♂️.<p>
+Im Julian, a Data Engineer 🚀 from Argentina, currently, I'm Tournament Manager / Bi Analyst at Goama  & Data Engineer on Quales Group 🙍🏽‍♂️.<p>
 In addition to programming, I enjoy doing sports, like playing soccer or enjoying some video games.<p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently data engineer :wink:;
+- 👨🏽‍💻 I’m currently Data Engineer :wink:;
 - 🌱 I’m currently learning Django;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Send me a Whatsapp: [:love_letter:](https://api.whatsapp.com/send/?phone=1132290264&app_absent=0)<--- CLICK HERE;
